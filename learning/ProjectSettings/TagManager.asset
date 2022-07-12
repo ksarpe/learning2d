@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fighter
   layers:
   - Default
   - TransparentFX
@@ -46,4 +47,10 @@ TagManager:
     locked: 0
   - name: Humans
     uniqueID: 2704796493
+    locked: 0
+  - name: Interactable
+    uniqueID: 70032289
+    locked: 0
+  - name: Weapon
+    uniqueID: 1148088537
     locked: 0
